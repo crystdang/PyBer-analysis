@@ -20,5 +20,5 @@ There are many possible factors that could affect the data, but as the opposing 
 
 Based on the results, the three business recommendations for the CEO for addressing disparities among the area types are as follows:
 1. Consider adjusting fees in urban areas or seeking alternative insentives for the drivers as their average fare is less than half compared to other area types, whereas the total rides are tripled. This proves that there is demand and additional drivers could significantly increase revenue.
-2. Considering the low totals in rural areas that are roughly six times lower than suburban areas, more in depth data to the highest totals rural cities and their bordering suburban cities could provide insight into what could insentivize drivers to travel for work. This could also be done for highest totals suburban cities and their bording urban cities.
-3. 
+2. Considering the low totals in rural areas that are roughly six times lower than suburban areas, more in depth data of the highest totals rural cities and their bordering suburban cities could provide insight into what could insentivize drivers to travel for work or increase ridership between areas. This could also be done for highest totals suburban cities and their bordering urban cities.
+3. Depicted by the line chart, the fare totals maintain a consistent distance across area types for January and February and begins to differ in March and April. The differing distances shows a discrepancy in supply or demand by area types and should be addressed.
